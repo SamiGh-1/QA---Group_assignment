@@ -1,0 +1,6 @@
+def count_chars (sentence):
+    return(len(sentence))
+def rename(heloo, salamatthx):
+    return('Ahd')
+print(count_chars('sami'))
+print(rename('sami'))
