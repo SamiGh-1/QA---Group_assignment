@@ -1,0 +1,3 @@
+def Check(int status, string name):
+def Check(int status, string name, char startChar):
+def Check(int status, string name, char startChar, char endChar):
