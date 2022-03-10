@@ -1,0 +1,11 @@
+def string (status):
+if status==0: 
+	return 0; 
+else 
+	if status==0: 
+    		print("EXIT") 
+return ("pass") 
+
+print("EXIT") 
+return("pass")
+
